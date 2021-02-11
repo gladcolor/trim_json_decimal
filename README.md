@@ -1,4 +1,4 @@
-# trim json decimal
+# Trim json decimal
 Keep 5 digits after the decimal points of the coordinates in GeoJSON files.
 
 ```
@@ -30,5 +30,5 @@ Processed
 # How to use
 Environment: Python 3.7
 
-In Windows, copy `run_script.bat` to the json file directory, then run it. The results will be stored in the "trimed" directory. Save about 40% of size.
+In Windows, copy `run_script.bat` and `process_json.py` to the json file directory, then double click `run_script.bat` to run. The results will be stored in the "trimed" directory. Save about 40% of size.
 
